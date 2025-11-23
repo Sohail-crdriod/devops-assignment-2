@@ -38,7 +38,9 @@ How the assignment was completed :-
 Added Dockerfile + README to Git repository with:
 
 git add .
+
 git commit -m "Assignment files uploaded"
+
 git push
 
 
