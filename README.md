@@ -1,4 +1,4 @@
-Five DevOps Concepts :-
+# Five DevOps Concepts :-
 
 Commit
 - A saved snapshot of work  
@@ -22,7 +22,7 @@ Continuous Deployment
 
 
 
-How the assignment was completed :-
+# How the assignment was completed :-
 
 - Made a GitHub repository and opened it locally  
 - Built a Dockerfile that performs basic Linux operations using simple shell utilities  
@@ -35,7 +35,7 @@ How the assignment was completed :-
 - My DockerHub link:  
   https://hub.docker.com/r/sohail222/linux-ops-box  
 
-Added Dockerfile + README to Git repository with:
+# Added Dockerfile + README to Git repository with:
 
 git add .
 
@@ -44,7 +44,7 @@ git commit -m "Assignment files uploaded"
 git push
 
 
-How this assignment helped me learn DevOps, Linux, Git, and Docker :-
+# How this assignment helped me learn DevOps, Linux, Git, and Docker :-
 
 - I practiced Linux commands inside a controlled container environment  
 - I learned how Docker builds, tags, and distributes images  
