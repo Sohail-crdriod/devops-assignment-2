@@ -39,7 +39,7 @@ Continuous Deployment
 
 git add .
 
-git commit -m "Assignment files uploaded"
+git commit -m "Added a Dockerfile and README for assignment"
 
 git push
 
